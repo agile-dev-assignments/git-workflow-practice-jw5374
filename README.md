@@ -1,2 +1,2 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# [Retro Game Mechanics Explained](https://www.youtube.com/c/RetroGameMechanicsExplained/videos)
+Not about Software Development directly, but it's interesting to see the clever ways in which retro game developer found solutions to certain problems. For example: their videos on Pokemon Sprite handling, starting with a "MissingNo." appearance explanation was enlightening as it (along with the follow up videos talking about how they decompress Pokemon sprites with the limited amount of space they had to work with) nicely shows how Pokemon sprites are normally displayed, and how this works to give "MissingNo." its exact glitchy appearance (from a bug that causes the game to read data from non-sprite related fields).
